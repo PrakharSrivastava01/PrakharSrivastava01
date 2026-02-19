@@ -36,6 +36,22 @@ I specialize in:
 
 ---
 
+---
+
+# 📚 Community & Continuous Learning
+
+🚀 Actively contributing to the DevOps community  
+
+🔥 Currently on a mission to complete the **#90DaysOfDevOps** challenge
+
+✔ Building projects daily  
+✔ Practicing real-world Linux, Docker & Kubernetes  
+✔ Strengthening cloud architecture fundamentals  
+✔ Sharing progress and learning publicly  
+
+💡 Consistency > Motivation. Execution > Excuses.
+
+
 # 🚀 Featured DevOps & Cloud Projects
 
 ## 🏗 Three-Tier AWS Web Application
