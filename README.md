@@ -1,3 +1,18 @@
+<!-- ======================== -->
+<!--      PREMIUM HEADER      -->
+<!-- ======================== -->
+
+<h1 align="center">Altamash Alam</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=800&lines=AWS+Certified+Solutions+Architect;DevOps+Engineer+%7C+Cloud+Engineer;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+Secure+%26+Scalable+Cloud+Infrastructure" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Strong%20Foundation-black?style=for-the-badge&logo=linux"/>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
