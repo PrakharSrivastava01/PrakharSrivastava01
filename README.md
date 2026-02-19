@@ -5,6 +5,13 @@
 <h1 align="center">Prakhar Srivastava</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/IIT%20Roorkee-Collaboration-003366?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellipaat-Advanced%20Certification-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-Advanced-0A66C2?style=for-the-badge&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-Advanced-8A2BE2?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-Strong%20Foundation-black?style=for-the-badge&logo=linux"/>
 </p>
