@@ -19,7 +19,6 @@
 ---
 
 # 💫 About Me:
-# 👋 About Me:
 
 🚀 Cloud & DevOps Engineer with **Advanced Certification in Cloud Computing & DevOps**  
 (Offered by Intellipaat in collaboration with IIT Roorkee)
