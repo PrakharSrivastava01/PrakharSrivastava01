@@ -19,9 +19,29 @@
 ---
 
 # 💫 About Me:
+# 👋 About Me:
+
 🚀 Cloud & DevOps Engineer with **Advanced Certification in Cloud Computing & DevOps**  
 (Offered by Intellipaat in collaboration with IIT Roorkee)
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡
+
+🛠 I’m currently working on:  
+• Production-ready AWS 3-Tier Architectures  
+• Terraform-based Infrastructure Automation  
+
+🤝 I’m looking to collaborate on:  
+• DevOps real-world projects  
+• Open-source cloud automation tools  
+
+🌱 I’m currently learning:  
+• Kubernetes (Advanced Concepts)  
+• CI/CD optimization & monitoring  
+
+💬 Ask me about:  
+• AWS architecture design  
+• Docker & containerization  
+• Linux troubleshooting  
+
+⚡ Fun fact: I enjoy breaking things in the cloud just to rebuild them better.
 
 I specialize in:
 
