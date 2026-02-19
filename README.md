@@ -2,11 +2,7 @@
 <!--      PREMIUM HEADER      -->
 <!-- ======================== -->
 
-<h1 align="center">Altamash Alam</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=800&lines=AWS+Certified+Solutions+Architect;DevOps+Engineer+%7C+Cloud+Engineer;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+Secure+%26+Scalable+Cloud+Infrastructure" />
-</p>
+<h1 align="center">Prakhar Srivastava</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge"/>
